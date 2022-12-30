@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **niranjandorage@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OpL2I7NhTe51EyOOrQJfkSf9vb9Lv5O3/view?usp=share_link](https://drive.google.com/file/d/1OpL2I7NhTe51EyOOrQJfkSf9vb9Lv5O3/view?usp=share_link)
-
 - ⚡ Fun fact **fun fact was never funny!!**
 
 <h3 align="left">Connect with me:</h3>
