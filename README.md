@@ -8,8 +8,7 @@
 
 - 🌱 I’m currently learning **app and web development.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Niranjan-Dorage](https://github.com/Niranjan-Dorage)
-
+- 👨‍💻 All of my projects are available at - https://github.com/Niranjan-Dorage?tab=repositories
 - 💬 Ask me about **c++,frontend in app and web**
 
 - 📫 How to reach me **niranjandorage@gmail.com**
